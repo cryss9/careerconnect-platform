@@ -1,0 +1,107 @@
+# Root level .gitignore for CareerConnect Project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.backup
+*.bak
+*.orig
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Documentation
+docs/build/
+
+# Deployment files
+deployment/
+deploy.sh
+*.deploy
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Temporary directories
+tmp/
+temp/
+
+# Node.js (in case of root package.json)
+node_modules/
+
+# Java (in case of root Maven/Gradle)
+target/
+build/
+
+# Git
+*.orig
+*.rej
+
+# Certificates and keys
+*.pem
+*.key
+*.crt
+*.cert
+*.p12
+*.pfx
+
+# Local configuration
+local.properties
+config.local.*
+
+# Build artifacts
+dist/
+build/
+out/
+
+# Cache directories
+.cache/
+.npm/
+.yarn/
+
+# Runtime
+*.pid
+*.seed
+*.pid.lock
+
+# Editor temp files
+*~
+.#*
+\#*#
+.*.swp
+.*.swo
