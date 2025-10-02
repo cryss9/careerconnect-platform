@@ -2,7 +2,7 @@
 
 # 🚀 CareerConnect
 
-<img src="./Frontend/public/anchor.png" alt="CareerConnect Logo" width="120"/>
+<img src="https://media1.tenor.com/m/MMo4B6tp-GMAAAAC/job-application.gif" alt="CareerConnect Logo" width="120"/>
 
 ### *Connecting Talent with Opportunity*
 
@@ -764,9 +764,7 @@ services:
 
 <div align="center">
 
-### 🤝 We Welcome Contributors!
 
-[![Contributors](https://img.shields.io/badge/Contributors-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
 </div>
 
@@ -806,10 +804,6 @@ services:
 
 ## 🚀 Ready to Get Started?
 
-<div style="margin: 30px 0;">
-<img src="./Frontend/public/Working/Apply for job.png" alt="Get Started" width="200"/>
-</div>
-
 ### 🔗 Quick Links
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Application-blue?style=for-the-badge&logo=vercel)](https://careerconnect-platform.vercel.app)
@@ -834,11 +828,7 @@ services:
 
 ---
 
-<div style="margin: 20px 0;">
-<img src="./Frontend/public/anchor.png" alt="CareerConnect Footer Logo" width="60"/>
-</div>
 
-**Made with ❤️ by the CareerConnect Team**
 
 *Connecting dreams with opportunities, one click at a time.*
 
