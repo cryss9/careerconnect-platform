@@ -30,7 +30,9 @@ Backend/target/
 # Frontend specific
 Frontend/node_modules/
 Frontend/build/
-Frontend/.env*
+Frontend/.env
+Frontend/.env.*
+Frontend/package-lock.json
 
 # Logs
 *.log
