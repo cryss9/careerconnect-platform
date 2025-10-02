@@ -2,7 +2,7 @@
 
 # 🚀 CareerConnect
 
-<img src="https://media1.tenor.com/m/MMo4B6tp-GMAAAAC/job-application.gif" alt="CareerConnect Logo" width="120"/>
+<img src="https://media1.tenor.com/m/MMo4B6tp-GMAAAAC/job-application.gif" alt="CareerConnect Logo" width="400"/>
 
 ### *Connecting Talent with Opportunity*
 
