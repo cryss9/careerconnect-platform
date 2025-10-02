@@ -17,7 +17,6 @@ import com.jobportal.jwt.JwtAuthenticationEntryPoint;
 import com.jobportal.jwt.JwtAuthenticationFilter;
 
 import java.util.Arrays;
-import java.util.List;
 
 
 @Configuration

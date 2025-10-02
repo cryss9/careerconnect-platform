@@ -27,7 +27,7 @@ const Profile = () => {
         <div className="" >
             <div className="relative">
 
-                <img className="rounded-t-2xl xl-mx:h-40 w-full xs-mx:h-32 " src="/Profile/banner.jpg" alt="" />
+                <img className="rounded-t-2xl xl-mx:h-40 w-full xs-mx:h-32 " src="/Profile/Default_Banner.jpg" alt="" />
                 <div className="absolute cursor-pointer flex items-center justify-center !rounded-full -bottom-1/3   md-mx:-bottom-10 sm-mx:-bottom-16  left-6">
 
                     <Avatar className="!w-48  !h-48 md-mx:!w-40 md-mx:!h-40 border-mine-shaft-950 border-8  rounded-full sm-mx:!w-36 sm-mx:!h-36 xs-mx:!h-32 xs-mx:!w-32" src={profile?.picture ? `data:image/jpeg;base64,${profile?.picture}` : '/avatar.png'} alt="" />

@@ -8,7 +8,7 @@ const Company = () => {
     const section=["About", "Jobs", "Employees"]
     return <div className="w-3/4">
         <div className="relative">
-            <img className="rounded-t-2xl " src="/Profile/banner.jpg" alt="" />
+            <img className="rounded-t-2xl " src="/Profile/Default_Banner.jpg" alt="" />
             <img className="w-36 h-36 border-mine-shaft-950 p-2 bg-mine-shaft-950 border-8 absolute -bottom-1/4 left-5 rounded-3xl" src="/Icons/Google.png" alt="" />
         </div>
         <div className="px-7 mt-12">
