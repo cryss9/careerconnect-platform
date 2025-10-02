@@ -22,10 +22,12 @@ Thumbs.db
 .env.local
 .env.*.local
 
-# Backend specific
-Backend/src/main/resources/application.properties
-Backend/src/main/resources/application-*.properties
+# Backend specific - ONLY exclude sensitive properties files
+Backend/src/main/resources/application-prod.properties
+Backend/src/main/resources/application-dev.properties
+Backend/src/main/resources/application-local.properties
 Backend/target/
+# Note: application.properties (main one) should be included!
 
 # Frontend specific
 Frontend/node_modules/
