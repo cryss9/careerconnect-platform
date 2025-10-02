@@ -48,18 +48,25 @@ const PostJob = () => {
     
     useEffect(()=>{
         window.scrollTo(0,0);
-        if(Number(id)!==0){
+        if(Number(id) > 0){  // Only load job if id is greater than 0
             dispatch(showOverlay());
             getJob(id).then((res)=>{
                 form.setValues(res);
                 setEditorData(res.description);
-            }).catch((err)=>console.log(err))
+            }).catch((err)=>{
+                console.log(err);
+                // If job not found, treat as new job
+                form.reset();
+                setEditorData(content);
+            })
             .finally(()=>dispatch(hideOverlay()));
         }
         else{
+            // For new job (id = 0), reset form
             form.reset();
+            setEditorData(content);
         }
-    }, [id, dispatch, form]);
+    }, [id, dispatch]);
     
     const handlePost = () => {
         form.validate();
