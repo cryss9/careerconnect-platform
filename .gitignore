@@ -22,6 +22,16 @@ Thumbs.db
 .env.local
 .env.*.local
 
+# Backend specific
+Backend/src/main/resources/application.properties
+Backend/src/main/resources/application-*.properties
+Backend/target/
+
+# Frontend specific
+Frontend/node_modules/
+Frontend/build/
+Frontend/.env*
+
 # Logs
 *.log
 logs/
